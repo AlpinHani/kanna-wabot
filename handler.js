@@ -759,7 +759,7 @@ await conn.sendMessage(jid, { "contentText": action === 'add' ? '─────
             "fileLength": "99999999999999",
             "pageCount": 100,
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
-            "fileName": 'Creαted by : ℓettα - sαmα ♡',
+            "fileName": 'Creαted by : Alpin-XD ♡',
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
             "directPath": "/v/t62.7118-24/35150115_287008086621545_8250021012380583765_n.enc?ccb=11-4&oh=6f0f730e5224c054969c276a6276a920&oe=61A21F46",
             "mediaKeyTimestamp": "1634472176",
@@ -871,29 +871,29 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
           "title": msg,
           "description": des,
           "footerText": global.botdate,
-          "buttonText": "Kanna BOT",
+          "buttonText": "Alpin BOT",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
                                 "rows": [{
                                          "title": `MY OWNER`,
-                                         "description": "List Owner Kanna BOT",
+                                         "description": "List Owner Alpin BOT",
                                          "rowId": ".nowner"
                                     }, {
                                          "title": `ABOUT`,
-                                         "description": " Tentang Kanna BOT", 
+                                         "description": " Tentang Alpin BOT", 
                                          "rowId": ".info"
                                     }, {
                                          "title": `LIST MENU`,
-                                         "description": " List Menu Kanna BOT",
+                                         "description": " List Menu Alpin BOT",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `SCRIPT`,
-                                         "description": " Source code Kanna BOT",
+                                         "description": " Source code Alpin BOT",
                                          "rowId": ".sc"
                                          }, {
                                          "title": `GROUP BOT`,
-                                         "description": " List Group Official Kanna BOT",
+                                         "description": " List Group Official Alpin BOT",
                                          "rowId": ".gcbot"
                        }],
                     "title": "Created By ℓettα - sαmα ♡"
